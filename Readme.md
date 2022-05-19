@@ -8,5 +8,4 @@
 
 > Tasks to myself
 
-    [ ] Convert comments from Turkish to English 🙂
     [ ] ReWrite the program using Rust 👽
